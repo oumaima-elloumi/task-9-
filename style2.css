@@ -1,0 +1,54 @@
+body {margin-left: 25%;
+    margin-top: 7%;
+    padding-right: 30px;
+   padding-left: 40px ;
+   padding-top: 30px ;
+   height: 500px;
+   width: 700px;
+   border: black solid;
+   border-radius: 20px;
+}
+.blur{
+    opacity: 0.9;
+}
+.toll{
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+.titre{
+    font-size: 28px;
+font-weight: bold;
+color: blueviolet;
+font-weight: bold;
+}
+.ktiba{
+    font-weight: bold;
+}
+#ono,#zwei , #tree {
+    border-radius: 20px ;
+}
+#ono{
+    height: 30px;
+    width: 400px;
+}
+#zwei{
+    height: 90px;
+    width: 400px;
+}
+#tree{
+    height: 30px;
+    width: 160px;
+}
+.bla{
+display: flex;
+justify-content: flex-end;
+}
+.blo{
+    border: blue;
+ border-radius: 13px;
+ color: white;
+ background-color: blue;  
+ height: 35px;
+ width: 130px;
+}

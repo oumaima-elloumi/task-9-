@@ -1,0 +1,31 @@
+
+body {
+    padding-right: 30px;
+   padding-left: 30px ;
+}
+.blou{ color: rgb(68, 133, 173);
+font-size: 20px;
+font-weight: bold;}
+.lfo9{
+    display: flex;
+   justify-content: space-between;
+   
+}
+.ymin {display: flex;
+flex-direction: row ;}
+   
+   .boton{
+    display: flex;
+    border: white;
+    background-color: white;
+    gap: 5px;
+   align-items: center;}
+.plus{color: blueviolet;
+    font-weight: bold;}
+    .affichage{
+      border-radius: 30px;
+      color: black;
+      background-color: rgb(155, 153, 153);
+         height: 420px;
+         width: 400px;
+   }
